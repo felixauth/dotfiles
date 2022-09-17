@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = felix.authesserre@gmail.com
+	name = felix authesserre
